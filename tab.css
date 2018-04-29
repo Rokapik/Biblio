@@ -1,0 +1,20 @@
+ol
+{
+	background-color: silver;
+	border: black outset 2px;
+	text-align: center;
+	width: 70%;
+
+}
+li
+{
+	background-color: silver;
+	border: black outset 2px;
+}
+.book
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
